@@ -110,14 +110,5 @@ Contributions are always welcome! To contribute to this project, follow these st
    - Submit the PR for review.
 
    
-## 📞 Contact the Developer
 
-Have questions or suggestions? Feel free to reach out!
-
-- **Email:** [souopsylvain@gmail.com](mailto:souopsylvain@gmail.com)
-- **GitHub:** [github.com/brayanj4y](https://github.com/brayanj4y)
-- **LinkedIn:** [linkedin.com/in/brayanj4y](https://linkedin.com/in/brayanj4y)
-
-I’d love to hear your feedback and ideas. Let's build something great together!
-Thank you for helping improve this project! Your contributions are appreciated. 🎉
 
